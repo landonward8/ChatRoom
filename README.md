@@ -1,1 +1,2 @@
 # ChatRoom
+Developed a Java-based chat application that enables real-time communication between users connected over a network. This application integrates multiple aspects of Java networking, featuring components such as a server that handles incoming connections, and client-side utilities for messaging and user interface interactions. This project honed my skills in implementing complex network communication system. The program's design demonstrates my ability to apply critical software engineering principles and my proficiency in using Java to solve real-world problems.
